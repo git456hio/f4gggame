@@ -1,0 +1,15 @@
+{
+    "wordGame": {
+        "code": "200",
+        "Success": "true,
+        "error": "no",
+        "dataBady": {
+            "successUrl": "",
+            "version": "1",
+            "versionName": "1.0",
+            "isApp": "No",
+            "Upperline": "No"
+      
+        }
+    }
+}
