@@ -1,7 +1,7 @@
 {
     "wordGame": {
         "code": "200",
-        "Success": "true,
+        "Success": "true",
         "error": "no",
         "dataBady": {
             "successUrl": "",
